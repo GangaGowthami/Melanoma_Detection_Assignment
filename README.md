@@ -28,25 +28,36 @@ To create a multiclass classification model using a custom convolutional neural 
 ## General Information
 
 1.What is the background of your project?
+
 Ans. Upgrad AIML course assignment.
 
 2. What is the business probem that your project is trying to solve?
+
 Ans. Exploration of CNN architecture and data augmentation techniques using the ISIC dataset.
 
 3. What is the dataset that is being used?
+
 Ans. The dataset consists of 2357 images of malignant and benign oncological diseases, which were formed from the International Skin Imaging Collaboration (ISIC).
 
 
 ## steps Performed
 
 Step 1: Reading and Understanding the Data
+
 Step 2: Dataset Creation
+
 Step 3: Dataset Creation
+
 Step 4: Model Building & training 
+
 Step 5: Chose an appropriate data augmentation strategy to resolve underfitting/overfitting 
+
 Step 6: Model Building & training on the augmented data 
+
 Step 7: Class distribution
+
 Step 8: Handling class imbalances
+
 Step 9: Model Building & training on the rectified class imbalance data 
 
 ## Findings
